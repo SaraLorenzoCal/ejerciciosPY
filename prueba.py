@@ -1,0 +1,1 @@
+print("Kill them all")
